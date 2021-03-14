@@ -1,3 +1,1 @@
-new new new
-git text
-adding
+(local) first modified
