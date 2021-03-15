@@ -1,2 +1,4 @@
+(local) first modified
+(remote) second modified
 branch_1 first modified
 branch_1 second modified
