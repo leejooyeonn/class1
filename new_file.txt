@@ -2,3 +2,5 @@
 (remote) second modified
 branch_1 first modified
 branch_1 second modified
+branch_2 first modified
+branch_2 second modified
